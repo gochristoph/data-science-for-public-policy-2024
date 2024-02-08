@@ -1,5 +1,5 @@
 # Data Science for Public Policy: From Econometrics to AI
-Repository for [Data Science for Public Policy: From Econometrics to AI @ ETH Zurich, Spring 2024](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024S&ansicht=ALLE&lerneinheitId=176702&lang=en)
+Repository for [Data Science for Public Policy: From Econometrics to AI @ ETH Zurich, Spring 2024](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024S&ansicht=ALLE&lerneinheitId=176702&lang=en) **([Syllabus](https://docs.google.com/document/d/1snsoJVXi03qjOcP7LJSbw0h_LZRGLXO01ju0slzbnaY/edit?usp=sharing))**
 
 **Lecturers:** [Sergio Galletta](https://sergio-galletta.com), [Elliott Ash](https://elliottash.com), [Christoph Goessmann](https://goessmann.io)
 
