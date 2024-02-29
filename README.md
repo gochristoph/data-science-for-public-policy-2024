@@ -5,6 +5,18 @@ Repository for [Data Science for Public Policy: From Econometrics to AI @ ETH Zu
 
 This course provides an introduction to data science, AI, and applied economics methods for policy applications. Students will put these techniques to work on a course project using real-world data, to be designed and implemented in consultation with the instructors.
 
+## Deliverables
+
+### Paper Presentations
+
+Please choose a paper and **sign up** for a presentation slot in the [presentation schedule](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit?usp=sharing) with your group **by 11 March** (see the corresponding section of the [syllabus](https://docs.google.com/document/d/1snsoJVXi03qjOcP7LJSbw0h_LZRGLXO01ju0slzbnaY/edit?usp=sharing)). If you would like us to match you into a group with somebody else, please also let us know by the same date.
+
+### Course Projects
+
+Please choose a project and register it with us **by 9 April** [here](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit?usp=sharing) (be sure to go to the course project sheet). 
+* Projects presentations are on **30 May**. 
+* By **21 July** you will have to hand in your paper/web app including the replication package. Please use [this link](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) to submit your project using the naming scheme `project_group_[#]_[app/paper].zip`.
+
 ## Tentative Schedule
 | #  | Date        | Lecture                                                        | Lecturer           |
 |----|-------------|----------------------------------------------------------------|--------------------|
