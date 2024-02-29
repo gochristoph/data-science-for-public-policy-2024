@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#SBATCH --gpus=1
+#SBATCH --gres=gpumem:22G
+#SBATCH --time=4:00:00
+#SBATCH --mail-type=ALL
+
+module load gcc/8.2.0 python_gpu && python matrix_math_test_gpu.py
