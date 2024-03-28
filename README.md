@@ -13,7 +13,7 @@ Please choose a paper and **sign up** for a presentation slot in the [presentati
 
 ### Course Projects
 
-Please choose a project and register it with us **by 9 April** [here](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit?usp=sharing) (be sure to go to the course project sheet, feel free to open an new [discussion](https://github.com/gochristoph/data-science-for-public-policy-2024/discussions) here to pitch your course project idea to others). 
+Please choose a project and register it with us **by 9 April** [here](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit#gid=1101149893) (be sure to go to the course project sheet, feel free to open an new [discussion](https://github.com/gochristoph/data-science-for-public-policy-2024/discussions) here to pitch your course project idea to others). 
 * Projects presentations are on **30 May**. 
 * By **21 July** you will have to hand in your paper/web app including the replication package. Please use [this link](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) to submit your project using the naming scheme `project_group_[#]_[app/paper].zip`.
 
