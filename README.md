@@ -29,7 +29,7 @@ Please choose a project and register it with us **by 16 April** [here](https://d
 | 07 | 11 April    | **NLP**                                                        | Ash                |
 | 08 | 18 April    | **Supervised ML**                                              | Galletta           |
 | 09 | 25 April    | **Unsupervised ML**                                            | Galletta           |
-| 10 | 2 May       | **AI and Fairness**                                            | Galletta           |
-| 11 | 16 May      | **Web Apps (e.g., [SDG Monitor](https://sdg-monitor.ethz.ch))**| Goessmann          |
-| 12 | 23 May      | **NLP**                                                        | Ash                |
+| 10 | 16 May      | **Web Apps (e.g., [SDG Monitor](https://sdg-monitor.ethz.ch))**| Goessmann          |
+| 11 | 23 May      | **AI and Fairness**                                            | Galletta           |
+| 12 | VIDEO       | **NLP**                                                        | Ash                |
 | 13 | 30 May      | **Project Presentations, final lecture**                       | Goessmann          |
