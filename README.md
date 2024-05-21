@@ -32,10 +32,10 @@ Please choose a project and register it with us **by 16 April** [here](https://d
 | 04 | 14 March    | **Working with (Big) Data II**                                 | Goessmann          |
 | 05 | 21 March    | **Applied Micro Methods II**                                   | Galletta           |
 | 06 | 28 March    | **Machine Learning Intro**                                     | Goessmann          |
-| 07 | 11 April    | **NLP**                                                        | Ash                |
+| 07 | 11 April    | **NLP I**                                                      | Ash                |
 | 08 | 18 April    | **Supervised ML**                                              | Galletta           |
 | 09 | 25 April    | **Unsupervised ML**                                            | Galletta           |
 | 10 | 16 May      | **Web Apps (e.g., [SDG Monitor](https://sdg-monitor.ethz.ch))**| Goessmann          |
 | 11 | 23 May      | **AI and Fairness**                                            | Galletta           |
-| 12 | VIDEO       | **NLP**                                                        | Ash                |
+| 12 | VIDEO       | **NLP II**                                                     | Ash                |
 | 13 | 30 May      | **Project Presentations, final lecture**                       | Goessmann          |
