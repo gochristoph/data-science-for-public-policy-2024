@@ -14,7 +14,13 @@ Please choose a paper and **sign up** for a presentation slot in the [presentati
 ### Course Projects
 
 Please choose a project and register it with us **by 16 April** [here](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit#gid=1101149893) (be sure to go to the course project sheet, feel free to open an new [discussion](https://github.com/gochristoph/data-science-for-public-policy-2024/discussions) here to pitch your course project idea to others). 
-* Projects presentations are on **30 May**. 
+* Projects presentations – 4 minutes per group – are on **30 May**.
+  * Upload [here](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) by **10 am** the same day using the naming scheme `project_group_[##]_presentation.[pdf/pptx/key/txt]`. We will prepare a laptop with all the presentations so that we waste little time between groups.
+  * Potential structure:
+    * What are you trying to do and why is it relevant?
+    * How are you doing it (methods)?
+    * What are your preliminary results?
+    * What are your pain points?
 * By **21 July** you will have to hand in your paper/web app including the replication package. Please use [this link](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) to submit your project using the naming scheme `project_group_[#]_[app/paper].zip`.
 
 ## Tentative Schedule
