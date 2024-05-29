@@ -11,6 +11,9 @@ This course provides an introduction to data science, AI, and applied economics 
 
 Please choose a paper and **sign up** for a presentation slot in the [presentation schedule](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit?usp=sharing) with your group **by 11 March** (see the corresponding section of the [syllabus](https://docs.google.com/document/d/1snsoJVXi03qjOcP7LJSbw0h_LZRGLXO01ju0slzbnaY/edit?usp=sharing)). If you would like us to match you into a group with somebody else, please also let us know by the same date.
 
+Upload your paper presentation [here](https://polybox.ethz.ch/index.php/s/D98ToGWyWD7wxFL) by **6 June** using the naming scheme `paper_group_[##]_presentation.[pdf/pptx/key/txt]
+`.
+
 ### Course Projects
 
 Please choose a project and register it with us **by 16 April** [here](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit#gid=1101149893) (be sure to go to the course project sheet, feel free to open an new [discussion](https://github.com/gochristoph/data-science-for-public-policy-2024/discussions) here to pitch your course project idea to others). 
